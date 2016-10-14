@@ -1,7 +1,7 @@
 {
-  "name": "Redux-books",
+  "name": "Cosmere Info Redux",
   "version": "1.0.0",
-  "description": "A project for using redux to display book information.",
+  "description": "A project for using redux to display Cosmere book information.",
   "main": "index.js",
   "repository": "",
   "scripts": {

@@ -1,2 +1,2 @@
-#Redux-Books
-A project for using redux to display book information.
+#Cosmere Book Info Redux
+A project for using redux to display Cosmere book information.
