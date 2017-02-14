@@ -5,11 +5,11 @@ class BookDetail extends Component {
 	render () {
 
 		if (!this.props.book){ //because state will be null by default, and a null title will cause errors
-			return <div className='details'><h1>Select Cosmere book for information!</h1> </div>;
+			return <div className='details col-sm-8'><h1>Select Cosmere book for information!</h1> </div>;
 		}
 
 		return (
-			<div className='details'>
+			<div className='details col-sm-8'>
 				<h3>Details for: </h3>
 				<div><h2>{this.props.book.title}</h2></div>
 				<div>{this.props.book.world}</div>

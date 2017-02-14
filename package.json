@@ -1,5 +1,5 @@
 {
-  "name": "Cosmere Info Redux",
+  "name": "Cosmere-Info-Redux",
   "version": "1.0.0",
   "description": "A project for using redux to display Cosmere book information.",
   "main": "index.js",

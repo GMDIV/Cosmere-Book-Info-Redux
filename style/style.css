@@ -1,8 +1,14 @@
 .list-group {
 	overflow-y: scroll;
 	height: 40em;
+
+}
+
+.list-group-item {
+	padding-top:1em;
+	padding-bottom:1em;
 }
 
 .details {
-	margin-left: 20em;
+	
 }
